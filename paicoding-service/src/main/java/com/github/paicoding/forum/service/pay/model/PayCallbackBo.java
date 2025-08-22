@@ -35,4 +35,5 @@ public class PayCallbackBo {
      * 支付状态
      */
     private PayStatusEnum payStatus;
+
 }
